@@ -1,0 +1,6 @@
+{
+    "dua": {"he_so_tuoi": 15, "ghi_chu": "15 năm cho mỗi m3 thể tích"},
+    "thong": {"he_so_tuoi": 25, "ghi_chu": "25 năm cho mỗi m3 thể tích"},
+    "tre_gai": {"he_so_tuoi": 8, "ghi_chu": "8 năm cho mỗi m3 thể tích"},
+    "Unknown": {"he_so_tuoi": 0, "ghi_chu": "Không có dữ liệu sinh trưởng"}
+}

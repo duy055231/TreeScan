@@ -1,0 +1,14 @@
+{
+    "known_classes": [
+        "dua",
+        "thong",
+        "tre_gai"
+    ],
+    "display_names": {
+        "dua": "Cây Dừa Xiêm",
+        "thong": "Cây Thông Đà Lạt",
+        "tre_gai": "Cây Tre Gai"
+    },
+    "confidence_threshold": 0.7460070550441742,
+    "img_size": 224
+}
