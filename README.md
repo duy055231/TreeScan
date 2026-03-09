@@ -26,3 +26,6 @@ Programming Language: Python
 
 Computer Vision & Deep Learning: YOLOv8 (for object detection and bounding box measurement), MobileNetV2 / ONNX (for deep learning image classification).
 Data Processing: OpenCV, NumPy.
+
+<img width="255" height="405" alt="image" src="https://github.com/user-attachments/assets/f02b530b-0066-4800-a6e8-034595976aec" />
+
